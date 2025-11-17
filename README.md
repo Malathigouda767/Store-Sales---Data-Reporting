@@ -32,7 +32,11 @@ Action:-
 Key Insights:-
 
 1)Sales amount and orders fell steeply from the begining of the year to end .
+
 2)Women contribution in sales is more comapred to men by  ~30% .
+
 3) Sales among Adult,Senior,Teenage Adult contributes almost equivalent to senior and teenage combined together.
+   
 4) All the sizes exccept 4XL,5XL,6XL contributes less volume in sales.
+   
 5) Among states MH,KA,TN,UP Contributes sales more than 10%.
